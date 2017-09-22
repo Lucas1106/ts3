@@ -1,0 +1,14 @@
+2017-06-18 01:17:42.477059|INFO    |VirtualServer |  3| listening on 0.0.0.0:9994
+2017-06-18 01:17:42.478237|INFO    |VirtualServer |  3| client 'server'(id:0) added privilege key for servergroup 'Server Admin'(id:12)
+2017-06-18 01:17:42.478270|WARNING |VirtualServer |  3| --------------------------------------------------------
+2017-06-18 01:17:42.478292|WARNING |VirtualServer |  3| ServerAdmin privilege key created, please use the line below
+2017-06-18 01:17:42.478312|WARNING |VirtualServer |  3| token=p8AYLTV5Z+oeepXzABMhBoBYWgO7y+HExaRYM2Br
+2017-06-18 01:17:42.478332|WARNING |VirtualServer |  3| --------------------------------------------------------
+2017-06-18 01:26:13.111244|INFO    |VirtualServer |  3| client (id:11) was added to servergroup 'Server Admin'(id:12) by client 'server'(id:0)
+2017-06-18 01:26:13.111983|INFO    |VirtualServer |  3| client 'rafael'(id:11) used privilege key 'p8AYLTV5Z+oeepXzABMhBoBYWgO7y+HExaRYM2Br' and was added to servergroup 'Server Admin'(id:12)
+2017-06-19 21:59:05.447324|INFO    |VirtualServer |  3| client (id:17) was added to servergroup 'Server Admin'(id:12) by client 'rafael'(id:11)
+2017-06-30 00:37:00.218551|INFO    |VirtualServer |  3| client (id:46) was added to servergroup 'Server Admin'(id:12) by client 'rafael'(id:11)
+2017-07-02 16:34:53.053191|INFO    |VirtualServer |  3| client (id:13) was added to servergroup 'Server Admin'(id:12) by client 'rafael'(id:11)
+2017-07-07 18:39:47.221838|INFO    |VirtualServer |  3| client (id:46) was removed from servergroup 'Server Admin'(id:12) by client 'Sap&#227;o'(id:13)
+2017-07-09 05:14:48.887802|INFO    |VirtualServer |  3| client (id:46) was added to servergroup 'Server Admin'(id:12) by client 'rafael'(id:11)
+2017-07-13 15:41:14.338154|INFO    |VirtualServer |  3| client (id:46) was removed from servergroup 'Server Admin'(id:12) by client 'rafael'(id:11)

@@ -1,0 +1,6 @@
+2017-07-22 19:09:20.253816|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.2 (2014-12-15 14:43:52)
+2017-07-22 19:09:20.253909|INFO    |ServerLibPriv |   | SystemInformation: Linux 4.4.0-78-generic #99~14.04.2-Ubuntu SMP Thu Apr 27 18:49:46 UTC 2017 x86_64 Binary: 64bit
+2017-07-22 19:09:20.253940|INFO    |ServerLibPriv |   | Using hardware aes
+2017-07-22 19:09:20.254652|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2017-07-22 19:09:20.254692|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2017-07-22 19:09:20.254953|INFO    |DatabaseQuery |   | checking database integrity (may take a while)

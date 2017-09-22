@@ -1,0 +1,18 @@
+2017-09-19 23:09:36.176776|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.2 (2014-12-15 14:43:52)
+2017-09-19 23:09:36.176873|INFO    |ServerLibPriv |   | SystemInformation: Linux 4.4.0-93-generic #116~14.04.1-Ubuntu SMP Mon Aug 14 16:07:05 UTC 2017 x86_64 Binary: 64bit
+2017-09-19 23:09:36.176902|INFO    |ServerLibPriv |   | Using hardware aes
+2017-09-19 23:09:36.177549|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2017-09-19 23:09:36.177585|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2017-09-19 23:09:36.179544|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2017-09-19 23:09:40.249287|INFO    |Accounting    |   | Licensing Information
+2017-09-19 23:09:40.249338|INFO    |Accounting    |   | licensed to       : MESMERiZE
+2017-09-19 23:09:40.249364|INFO    |Accounting    |   | type              : Hoster
+2017-09-19 23:09:40.249402|INFO    |Accounting    |   | starting date     : Fri Jan  1 00:00:00 2010
+2017-09-19 23:09:40.249428|INFO    |Accounting    |   | ending date       : Wed Jan  1 00:00:00 2025
+2017-09-19 23:09:40.249452|INFO    |Accounting    |   | max virtualservers: 65535
+2017-09-19 23:09:40.249474|INFO    |Accounting    |   | max slots         : 16776960
+2017-09-19 23:09:41.572215|INFO    |              |   | Puzzle precompute time: 1310
+2017-09-19 23:09:41.572511|ERROR   |FileManager   |   | bind() failed: 98
+2017-09-19 23:09:41.572551|ERROR   |FileManager   |   | bind failed on 0.0.0.0:30033
+2017-09-19 23:09:41.771104|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2017-09-19 23:09:41.771470|ERROR   |Query         |   | bind failed on 0.0.0.0:10011

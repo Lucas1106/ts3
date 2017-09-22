@@ -1,0 +1,21 @@
+2017-09-19 23:21:43.248802|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.2 (2014-12-15 14:43:52)
+2017-09-19 23:21:43.249567|INFO    |ServerLibPriv |   | SystemInformation: Linux 4.4.0-93-generic #116~14.04.1-Ubuntu SMP Mon Aug 14 16:07:05 UTC 2017 x86_64 Binary: 64bit
+2017-09-19 23:21:43.249599|INFO    |ServerLibPriv |   | Using hardware aes
+2017-09-19 23:21:43.265012|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2017-09-19 23:21:43.269379|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2017-09-19 23:21:43.275042|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2017-09-19 23:21:47.474742|INFO    |Accounting    |   | Licensing Information
+2017-09-19 23:21:47.474799|INFO    |Accounting    |   | licensed to       : MESMERiZE
+2017-09-19 23:21:47.474826|INFO    |Accounting    |   | type              : Hoster
+2017-09-19 23:21:47.474867|INFO    |Accounting    |   | starting date     : Fri Jan  1 00:00:00 2010
+2017-09-19 23:21:47.474892|INFO    |Accounting    |   | ending date       : Wed Jan  1 00:00:00 2025
+2017-09-19 23:21:47.474915|INFO    |Accounting    |   | max virtualservers: 65535
+2017-09-19 23:21:47.474938|INFO    |Accounting    |   | max slots         : 16776960
+2017-09-19 23:21:48.736965|INFO    |              |   | Puzzle precompute time: 1241
+2017-09-19 23:21:48.738177|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2017-09-19 23:21:49.001604|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2017-09-19 23:21:49.002827|INFO    |Query         |   | listening on 0.0.0.0:10011
+2017-09-21 23:25:16.917387|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.
+2017-09-21 23:25:18.053211|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2017-09-21 23:25:18.053272|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2017-09-21 23:25:18.053356|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
